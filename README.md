@@ -7,8 +7,10 @@ I have decided to work on this in order to get together business back home and g
 This will be something available at there door step. This is a one stop site or link that is meant for distribution, it's not an online shopping site.
   
 <h2><b>Technologies</b></h2>
-* HTML
-* CSS
+<ul>
+<li>HTML
+<li>CSS
+</ul>
 
 <h2><b>Features</b></h2>
 <ol value="1">
@@ -18,4 +20,6 @@ This will be something available at there door step. This is a one stop site or 
   <li>About</li>
   <li>Contact Us</li>
 </ol>
-</ol>
+
+<h3><b>LINK</b></h3>
+[LINK]
