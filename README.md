@@ -11,7 +11,7 @@ This will be something available at there door step. This is a one stop site or 
 * CSS
 
 <h2><b>Features</b></h2>
-<ol>
+<ol value="1">
   <li>Home</li>
   <li>Shop</li>
   <li>Order & Shipping</li>
