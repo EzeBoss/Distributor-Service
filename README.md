@@ -22,7 +22,7 @@ This will be something available at there door step. This is a one stop site or 
 </ol>
 
 <h2>PLANS</h2>
-
+Plan to keep working on my frontend work and get better.
 
 <h3><b>LINK</b></h3>
 [LINK]
