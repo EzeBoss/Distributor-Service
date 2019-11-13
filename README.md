@@ -1,4 +1,4 @@
-# Distributor-Service
+# <a href="https://ezeboss.github.io/Distributor-Service/">Distributor-Service<a>
 This is a site for distributing goods to buyers.<br>
 
 <ol>
@@ -24,7 +24,7 @@ This will be something available at there door step. This is a one stop site or 
 <h2>PLANS</h2>
 Plan to keep working on my frontend work and get better.
 
-<h3><b>LINK</b></h3>
+<h3><b>PROJECT LINK</b></h3>
  <a href="https://ezeboss.github.io/Distributor-Service/">[LINK]</a>
 
 
